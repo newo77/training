@@ -1,0 +1,6 @@
+*.txt
+*docx
+*pdf
+*uploads/
+*vendors/
+!uploads/README.md
